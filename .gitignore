@@ -1,3 +1,4 @@
 known_hosts
 .gitsecret/keys/random_seed
 !*.secret
+id_ed25519
