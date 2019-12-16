@@ -1,1 +1,3 @@
 known_hosts
+.gitsecret/keys/random_seed
+!*.secret
