@@ -1,5 +1,5 @@
 Host *
-	UseKeychain yes
+	# UseKeychain yes
 	AddKeysToAgent yes
 	IdentityFile ~/.ssh/id_ed25519
 	Compression yes

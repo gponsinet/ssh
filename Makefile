@@ -1,5 +1,6 @@
 all: config reveal
 
+.PHONY: config
 config:
 	chmod 400 $@
 
